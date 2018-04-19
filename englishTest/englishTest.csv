@@ -1,0 +1,22 @@
+question,options[a],options[b],options[c],options[d],correct,essay,testCode,partNumber
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,1
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,1
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028,1
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,1
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,1
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028,1
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,1
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,1
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028,1
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,1
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,2
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028 ,2
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,2
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,2
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028,2
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,3
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,3
+Where is the correct place to insert a English?,<js>,The <body> section, Both the <head> section and the <body> section are correct,The <head> section,a,FALSE,ANZ_028,3
+Inside which HTML element do we put the English?,<js>,<scripting>,<English>,<script>,c,FALSE,ANZ_028,3
+"What is the correct English syntax to change the content of the HTML element below?\n<p id=\""demo\"">This is a demonstration.</p>","document.getElement(""p"").innerHTML = ""Hello World!"";","document.getElementById(""demo"").innerHTML = ""Hello World!"";","document.getElementByName(""p"").innerHTML = ""Hello World!"";","#demo.innerHTML = ""Hello World!"";",a,FALSE,ANZ_028,3
+Where is the correct place to insert a English?,,,,,,TRUE,ANZ_028,4
